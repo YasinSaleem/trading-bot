@@ -1,0 +1,16 @@
+# For Indian stock data
+yfinance
+pandas
+gspread
+scikit-learn
+oauth2client
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+numpy
+matplotlib
+python-dotenv
+loguru
+requests
+# Optional: for Jupyter notebooks
+jupyter
