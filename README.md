@@ -1,4 +1,4 @@
-# Algo Trading Bot
+# Trading Bot
 
 A modular Python-based prototype for algorithmic trading on NIFTY 50 stocks. This bot uses a combination of technical indicators (RSI and Moving Averages) to generate trading signals, backtests the strategy, and logs the results to Google Sheets. It also includes a basic Machine Learning component for predicting price movements.
 
